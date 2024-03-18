@@ -1,0 +1,8 @@
+venv
+dockerfile
+docker-compose.yml
+.gitignore
+.git 
+.idea
+.vscode
+dbdata
